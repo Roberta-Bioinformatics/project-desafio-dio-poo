@@ -2,7 +2,7 @@
 
 <h3 align="center">Abstraindo um Bootcamp utilizando 
 Orientação a Objetos em Java.</h3>
-
+<br/>
 **Descrição:** Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio.  
 
 Para isso, os pilares da OO são devidamente formalizados: 
@@ -11,6 +11,7 @@ Para isso, os pilares da OO são devidamente formalizados:
 * Encapsulamento.
 * Herança.
 * Polimorfismo. 
+
 
 Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e 
 
