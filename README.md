@@ -1,2 +1,3 @@
-# Desafio-dio-poo
-{(◠‿◠)} Desafio Dio referente à abstração bootcamp - Programação Orientada a Objetos em Java ^.^
+# Projeto-DIO-POO
+{(◠‿◠)} Repositório referente ao Projeto Dio: Abstração Bootcamp - Programação Orientada a Objetos em Java ^.^
+Gratidão! {(◠‿◠)}
