@@ -50,13 +50,13 @@ public class Main {
         Dev devTeacher = new Dev();
         devTeacher.setNome("Camila");
         devTeacher.inscreverBootcamp(bootcamp);
-        System.out.println("Conteudos Inscritos Teacher" + devTeacher.getConteudosInscritos());
+        System.out.println("Conteúdos Inscritos Teacher" + devTeacher.getConteudosInscritos());
         devTeacher.progredir();
         devTeacher.progredir();
         devTeacher.progredir();
         System.out.println("-");
-        System.out.println("Conteudos Inscritos Teacher" + devTeacher.getConteudosInscritos());
-        System.out.println("Conteudos Concluídos Teacher" + devTeacher.getConteudosConcluidos());
+        System.out.println("Conteúdos Inscritos Teacher" + devTeacher.getConteudosInscritos());
+        System.out.println("Conteúdos Concluídos Teacher" + devTeacher.getConteudosConcluidos());
         System.out.println("XP: " + devTeacher.calcularTotalXp());
         System.out.println(" ");
 
@@ -75,6 +75,6 @@ public class Main {
         System.out.println("Conteúdos Concluídos Aluno_1" + devAluno1.getConteudosConcluidos());
         System.out.println("XP: " + devAluno1.calcularTotalXp());
         System.out.println(" ");
-        System.out.println("ƸӜƷ Gratidão! ƸӜƷ");
+        System.out.println("ƸӜƷ Muita gratidão! ƸӜƷ");
     }
 }
