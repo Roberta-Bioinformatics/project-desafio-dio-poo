@@ -2,19 +2,25 @@
 
 <h3 align="center">Abstraindo um Bootcamp utilizando 
 Orientação a Objetos em Java.</h3>
-<br/>
-**Descrição:** Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio.  
+
+***<h3> Descrição: </h3>***
+
+Desmistifique a Programação Orientada a Objetos (POO) com Java e pratique esse conceito fundamental nesse desafio.  
 
 Para isso, os pilares da OO são devidamente formalizados: 
+<br/>
 
-* Abstração. 
-* Encapsulamento.
-* Herança.
-* Polimorfismo. 
+:star:   Abstração.<br/> 
+:star:   Encapsulamento.<br/> 
+:star:   Herança.<br/> 
+:star:   Polimorfismo.<br/>  
 
-
-Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e 
-
+Com isso, você poderá desenvolver sua capacidade de abstração com um problema real e
+<br/>
 implementar as evoluções que achar interessantes. ^.^
 
- ![](https://apexensino.com.br/wp-content/uploads/2020/05/26-java-logo.jpg)
+***<h3> Observação: </h3>*** O desenvolvimento foi realizado com o acompanhamento das aulas,
+para melhor entendimento de cada etapa dos códigos. {✿◠‿◠}
+
+ ![](https://besthqwallpapers.com/Uploads/17-2-2020/122068/thumb2-java-glitter-logo-programming-language-grid-metal-background-java-creative.jpg)
+___
