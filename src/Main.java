@@ -18,16 +18,16 @@ public class Main {
 
         // **********************************************************************************************************************
         // Conteudo conteudo = new Curso();
-        // tudo que tenho em conteudo tenho em curso.
-        // mas nem tudo que tenho em curso tenho em conteudo...
+        // Explicação: Tudo que está em conteúdo, está em curso. Porém, nem tudo que está em curso, está em conteudo.
         // *** Conceito de polimorfismo. ***
 
-        // classe Conteudo é classe mãe e abstrata para que se possa evitar a repetição de código...
-        // *** Conceito de herança --> classe Conteudo é mãe de curso e mentoria. ***
+        // A classe Conteudo é a classe mãe e abstrata, para que se possa evitar a repetição de código.
+        // *** Conceito de herança --> classe Conteudo é a classe mãe de curso e mentoria. ***
 
         // Conteudo conteudo1 = new Mentoria();
-        // *** Conceito de polimorfismo --> objeto de diversas formas... pode instanciar mentoria atraves da classe conteudo porque
-        // conteudo é mãe de mentoria. Mas conteudo não pode dar um new em conteudo, porque é uma classe abstrata. ***
+        // *** Conceito de polimorfismo --> objeto de diversas formas... pode instanciar mentoria através da classe conteudo
+        // porque classe conteudo, é a classe mãe de mentoria. Mas conteudo não é possível dar um new em conteudo,
+        // porque é uma classe abstrata. ***
         // **********************************************************************************************************************
 
         Mentoria mentoria = new Mentoria();
@@ -77,5 +77,4 @@ public class Main {
         System.out.println(" ");
         System.out.println("ƸӜƷ Gratidão! ƸӜƷ");
     }
-
 }
