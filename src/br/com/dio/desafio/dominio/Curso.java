@@ -9,7 +9,6 @@ package br.com.dio.desafio.dominio;
 // protect: somente essa classe e as classes filhas tem acesso ao atributo. :)
 // public: por default(se não especificar), qualquer classe que necessitará do atributo, terá acesso. :)
 
-
 public class Curso extends Conteudo{
     // private String titulo;
     // private String descricao;

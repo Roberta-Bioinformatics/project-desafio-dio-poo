@@ -14,7 +14,6 @@ import java.time.LocalDate;
 // A classe Mentoria extende da classe Conteudo. Ou seja, a classe Mentoria é filha da classe Conteudo. :)
 // Tudo que temos em conteúdo, iremos ter em Mentoria, mas nem tudo que temos em Mentoria, teremos em Conteúdo. :)
 
-
 public class Mentoria extends Conteudo{
     // private String titulo;
     // private String descricao; (comentado, pois já contém titulo e descrição na classe mãe). :)

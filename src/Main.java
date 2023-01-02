@@ -21,7 +21,6 @@ public class Main {
 // Analogia: A classe é como se fosse a planta de uma casa e o objeto é realmente a casa construída. :)
 // Método set - atribuindo valores aos atributos. :)
 
-
 // Foram criadas as classes Curso e Mentoria, assim como, os objetos dessas classes a partir da classe Main. :)
 // Conceito de encapsulamento: foram encapsulados os atributos. :)
 

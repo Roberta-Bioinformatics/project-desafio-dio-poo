@@ -31,7 +31,6 @@ public abstract class Conteudo {
 // e serão obrigadas a implementar a lógica nesse método. :)
 // Classe abstrata - não consegue instanciar, criar conteúdo. :)
 
-
     public abstract double calcularXp();
 
 
