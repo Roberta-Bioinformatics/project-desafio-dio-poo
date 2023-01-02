@@ -1,7 +1,5 @@
 package br.com.dio.desafio.dominio;
 
-import com.sun.source.tree.IfTree;
-
 import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Set;
@@ -47,8 +45,8 @@ public class Dev {
         return conteudosInscritos;
     }
 
-    public void setConteudosInscritos(Set<Conteudo> conteudosInscritos) {
-        this.conteudosInscritos = conteudosInscritos;
+    public void setConteudosInscritos (Set<Conteudo> conteudosInscritos) {
+        this.conteudosInscritos = getConteudosInscritos();
     }
 
     public Set<Conteudo> getConteudosConcluidos() {
@@ -56,7 +54,7 @@ public class Dev {
     }
 
     public void setConteudosConcluidos(Set<Conteudo> conteudosConcluidos) {
-        this.conteudosConcluidos = conteudosConcluidos;
+        this.conteudosConcluidos = getConteudosConcluidos();
     }
 
     // Métodos equals e hash porque está utilizando LinkedHashSet... :)
@@ -65,12 +63,13 @@ public class Dev {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Dev dev = (Dev) o;
-        return Objects.equals(nome, dev.nome) && Objects.equals(conteudosInscritos, dev.conteudosInscritos) && Objects.equals(conteudosConcluidos, dev.conteudosConcluidos);
+        return Objects.equals(nome, dev.nome) &&
+                Objects.equals(getConteudosInscritos(), dev.getConteudosInscritos()) &&
+                Objects.equals(getConteudosConcluidos(), dev.getConteudosConcluidos());
     }
-
     @Override
     public int hashCode() {
-        return Objects.hash(nome, conteudosInscritos, conteudosConcluidos);
+        return Objects.hash(getNome(), getConteudosInscritos(), getConteudosConcluidos());
     }
 }
 
