@@ -19,8 +19,8 @@ Com isso, você poderá desenvolver sua capacidade de abstração com um problem
 <br/>
 implementar as evoluções que achar interessantes. ^.^
 
-***<h3> Observação: </h3>*** O desenvolvimento foi realizado com o acompanhamento das aulas,
-para melhor entendimento de cada etapa dos códigos. {✿◠‿◠}
+***<h3> Observação: </h3>*** O desenvolvimento foi realizado com o acompanhamento de cada etapa das aulas,
+adicionando comentários para melhor entendimento de procedimentos dos códigos. {✿◠‿◠}
 
  ![](https://besthqwallpapers.com/Uploads/17-2-2020/122068/thumb2-java-glitter-logo-programming-language-grid-metal-background-java-creative.jpg)
 ___
