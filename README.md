@@ -19,7 +19,7 @@ Com isso, você poderá desenvolver sua capacidade de abstração com um problem
 <br/>
 implementar as evoluções que achar interessantes. ^.^
 
-***<h3> 🖌️  Observação: </h3>*** O desenvolvimento foi realizado com o acompanhamento 💗 de cada etapa das aulas, <br/>
+***<h2> 🖌️  Observação: </h2>*** O desenvolvimento foi realizado com o acompanhamento 💗 de cada etapa das aulas, <br/>
 adicionando comentários para melhores entendimentos dos procedimentos com os códigos. 💛 👩‍💻 🧡
   
 {✿◠‿◠} Muita gratidão! ✨🤗✨
