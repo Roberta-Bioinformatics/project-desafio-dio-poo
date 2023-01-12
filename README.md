@@ -1,7 +1,7 @@
-<h2 align="center"> Repositório referente ao Projeto Java - DIO. </h2>
+<h2 align="center"> :blue_heart: Repositório referente ao Projeto Java - DIO. :blue_heart: </h2> 
 
-<h3 align="center">Abstraindo um Bootcamp utilizando 
-Orientação a Objetos em Java.</h3>
+<h3 align="center">  💛 👩‍💻 🧡 Abstraindo um Bootcamp utilizando 
+Orientação a Objetos em Java.  🧡 👩‍💻 💛 </h3>
 
 ***<h3> 📚 Descrição: </h3>***
 
